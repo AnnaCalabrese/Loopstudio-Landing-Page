@@ -26,3 +26,14 @@ I deployed this completed challenge on Netlify:
 - Mobile-first workflow
 - Firefox developer tools
 
+### What I learned
+I decided to really challenge myself this time and build everything with SASS, which I've never done before but after practicing CSS for a while I felt comfortable to switch.
+I struggled a little with inserting the media queries in SASS and with the toggle menu but one of the most important things that I have learned is the picture element
+which really saved me time and is way more efficient than anything else.
+
+### What should I focus on in the future to improve my skills (how can I become a better programmer)?
+I need to improve on using all the features that SASS has to offer so that I can be a quicker programmer because I feel a bit slow and I want to try Tailwind as a CSS framework.
+
+## Author
+
+- Website - [Anna Calabrese](https://annacalabrese.netlify.app/)
